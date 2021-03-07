@@ -6,4 +6,4 @@ Also exploring Python type hints.
 
 3D visualization with [k3d](https://github.com/K3D-tools/K3D-jupyter).
 
-![Screenshot](https://github.com/lorentzj/dogpiler/tree/main/media/screenshots/s1.png)
+![Screenshot](media/screenshots/s1.png)
