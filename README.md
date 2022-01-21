@@ -1,6 +1,6 @@
 # Dogpiler
 
-Recursive brute-force solver for the game [Dogpile](https://www.brainwright.com/products/display/8310).
+Recursive brute-force solver for the game [Dogpile](https://gamewright.com/product/dog-pile).
 
 Also exploring Python 3.9 type hints.
 
